@@ -21,7 +21,7 @@ Student-App is a web application designed to efficiently manage student records.
 
 ---
 
-## Steps to Set Up and Deploy
+## Steps 1: Set Up and Deploy
 
 ### 1. Update System
 
@@ -129,6 +129,7 @@ sudo apt install tree -y
 ```
 
 ![Verify Maven Installation](images/tree-install.png)
+
 ---
 
 ### 6. Build the Project with Maven
